@@ -81,7 +81,7 @@ The dataset contains customer information including:
 
 ## 🖼️ Dashboard Preview
 
-![Customer Retention Dashboard](Images/Customer_Retention_Dashboard.png)
+![Customer Retention Dashboard](Images/Churn_Prediction.png)
 
 ---
 
